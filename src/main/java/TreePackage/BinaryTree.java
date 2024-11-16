@@ -1,4 +1,4 @@
-package Week7_Complete.TreePackage;
+package TreePackage;
 
 
 import Week7_Incomplete.StackAndQueueInterface.LinkedQueue;

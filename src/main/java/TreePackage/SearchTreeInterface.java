@@ -1,4 +1,4 @@
-package Week7_Complete.TreePackage.BinarySearchTree;
+package TreePackage;
 
 import Week7_Complete.TreePackage.TreeInterface;
 

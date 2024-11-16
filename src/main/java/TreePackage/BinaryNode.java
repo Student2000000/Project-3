@@ -1,4 +1,4 @@
-package Week7_Complete.TreePackage;
+package TreePackage;
 /**
  A class that represents nodes in a binary tree.
 

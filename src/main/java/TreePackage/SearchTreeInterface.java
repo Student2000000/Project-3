@@ -1,6 +1,6 @@
 package TreePackage;
 
-import Week7_Complete.TreePackage.TreeInterface;
+import TreePackage.TreeInterface;
 
 import java.util.Iterator;
 

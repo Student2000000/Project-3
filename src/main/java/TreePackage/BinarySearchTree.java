@@ -1,7 +1,7 @@
 package TreePackage;
 
-import Week7_Complete.TreePackage.BinaryNode;
-import Week7_Complete.TreePackage.BinaryTree;
+import TreePackage.BinaryNode;
+import TreePackage.BinaryTree;
 import TreePackage.BinaryTreeInterface;
 
 public class BinarySearchTree<T extends Comparable<? super T>>
